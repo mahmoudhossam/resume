@@ -3,7 +3,7 @@
 ### Contact Information
 
 * Email: mahmoud.h.hanafy@gmail.com
-*  Cell Phone: +201020505803
+* Cell Phone: +201020505803
 * Address: 86 Tayaran st. Nasr City, Cairo.
 
 ### Professional Experience
@@ -42,27 +42,26 @@
 
 ### Technologies and Languages
 * **Java**
+    * Android app development.
 * **Python**
-
     * Web Applications using flask and Django.
     * Web scraping using BeautifulSoup.
 * **VB.NET**
 * **Javascript**
-
     * jQuery.
     * AngularJS.
     * Express.js
 * **HTML and CSS**
 * **Version Control**
+    * Git
+    * Mercurial
 * **Linux**
-
     * Ubuntu.
     * Mandriva.
     * Arch Linux.
     * Fedora.
     * OpenSuSE.
 * **Databases**
-
     * MySQL.
     * PostgreSQL.
     * MongoDB.
@@ -79,4 +78,3 @@
 [2]: http://www.forvo.com/
 [3]: http://www.udacity.com/overview/Course/cs101
 [4]: http://www.udacity.com/overview/Course/cs253
-  
